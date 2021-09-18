@@ -1,0 +1,16 @@
+.listusers{
+    background-color: rgba(255, 255, 255, 0.541);
+    text-align: center;
+    border-radius: 6px;
+}
+.users{
+    width: 350px;
+    height: auto;
+    background-color: #2ab9b2;
+}
+.id{
+    background-color: #A9A9A9;
+}
+.usertext:hover{
+    color:rgb(57, 28, 122);
+}

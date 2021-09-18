@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(57, 28, 122);
+}
+
+/* Navbar */
+.navbars {
+  height: 11vh;
+  background-color: rgb(57, 28, 122);
+  font-weight: bold;
+  color: #f2f2f2;
+}
+/*Navbar Text Zippy*/
+.zippytext{
+  font-size: 2rem;
+  margin-left: 4vw;
+  padding-top: 1.5vh;
+  text-decoration: none;
+  color: #f2f2f2;
+}
+.zippytext:hover{
+  color: black;
+}
+.getuser{
+  padding: 5px;
+}
+/* Navbar Button Get User */
+.navbars .btn {
+  float: right;
+  color: white;
+  margin-right: 6%;
+  font-size: 2rem;
+  background-color: rgb(0, 0, 0);
+  border: black;
+}
+.navbars .btn:hover {  
+  border-radius: 10px;
+  border: #ffff;
+  color: rgb(0, 0, 0);
+  background-color: #ffff;
+}
